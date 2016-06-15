@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: me.chanjar:weixin-java-mp:1.1.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.chanjar/weixin-java-mp/1.1.8/7023a0e0d679e07b8192471c1527adfcb6a5965f/weixin-java-mp-1.1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.chanjar/weixin-java-mp/1.1.8/85635d23536822885a2a2c12ef80745df2068c6b/weixin-java-mp-1.1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

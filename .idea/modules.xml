@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/business/business.iml" filepath="$PROJECT_DIR$/business/business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/site/site.iml" filepath="$PROJECT_DIR$/site/site.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wechat-java-demo.iml" filepath="$PROJECT_DIR$/wechat-java-demo.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+group 'wechat-java-demo'
+version '1.0-SNAPSHOT'
+
+dependencies {
+    compile ('me.chanjar:weixin-java-mp:1.1.8')
+    compile fileTree(dir: 'libs', include: '*.jar')
+}

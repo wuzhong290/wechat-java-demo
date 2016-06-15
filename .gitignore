@@ -1,0 +1,6 @@
+*.class
+
+# Package Files #
+*.iml
+*.ipr
+*.iws

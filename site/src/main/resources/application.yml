@@ -1,0 +1,18 @@
+
+# The @activeProfile@ will be filtered by gradle build parameter: gradle clean war -Pprofiles=production
+# You must add the 'clean' build command, if you don't edit this yml file. Otherwise, the profiles change
+# will not work. If no profiles specified, the 'default' will be used.
+spring:
+  profiles:
+    active: @profiles@
+  view:
+    prefix: /WEB-INF/jsp/
+    suffix: .jsp
+
+# You can change the default http port
+##server:
+#  port: 8080
+#  contextPath: /wechat-java-demo
+
+application:
+  message: Hello Phil

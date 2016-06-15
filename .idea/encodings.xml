@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/common/src/main/java/com" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/test/java/aes/WXBizMsgCryptTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/site/gradle.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/site/src/main/java/com/wechat/Application.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/site/src/main/java/com/wechat/SiteConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/site/src/main/java/com/wechat/login/CheckController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/site/src/main/java/com/wechat/main/WelcomeController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/site/src/main/java/mp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/site/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/site/src/main/resources/log4j.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/site/src/main/resources/mm.jpeg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/site/src/main/resources/mm.mp3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/site/src/main/resources/mm.mp4" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/site/src/main/resources/test-config.sample.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/site/src/main/resources/test-config.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/site/src/main/webapp/WEB-INF" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

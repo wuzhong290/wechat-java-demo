@@ -1,0 +1,30 @@
+war {
+    baseName = 'wechat-java-demo'
+}
+
+bootRun {
+    addResources = false
+}
+
+springBoot {
+    mainClass = 'com.wechat.Application'
+}
+
+processResources {
+    filter org.apache.tools.ant.filters.ReplaceTokens, tokens: [
+            profiles: profiles
+    ]
+}
+
+dependencies {
+    compile project(':business')
+    compile ('org.springframework.boot:spring-boot-starter-web')
+    compile ('javax.servlet:jstl')
+    compile 'org.springframework.boot:spring-boot-starter-log4j'
+    compile ('org.springframework.boot:spring-boot-starter-actuator'){
+        exclude (module:"spring-boot-starter-logging")
+    }
+    providedRuntime ('org.springframework.boot:spring-boot-starter-tomcat')
+    providedRuntime ('org.apache.tomcat.embed:tomcat-embed-jasper')
+    testCompile 'org.springframework.boot:spring-boot-starter-test'
+}
