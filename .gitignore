@@ -4,3 +4,8 @@
 *.iml
 *.ipr
 *.iws
+.gradle/
+
+/out/
+/site/build/
+/.idea/
